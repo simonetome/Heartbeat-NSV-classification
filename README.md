@@ -28,6 +28,7 @@ obtained by an Autoencoder that constructs easily identified patches of beats.
 ├─── models                     // saved models
 ├─── Papers                     // bibliography
 ├─── report                     // final report
+├─── report                     // results one the final dataset
 ├─── AE_models.ipynb            // ML models with Autoencoder
 ├─── final_model.ipynb          // final model for the test set 
 ├─── LSTM_CNN.ipynb             // model one vs all CNN + LSTM
